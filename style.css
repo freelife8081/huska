@@ -1,0 +1,29 @@
+.bin{
+  color: gold;
+  background-color: red;
+  text-decoration: none;
+  border-color: black;
+  border-radius: 12px;
+}
+.bo{
+  color: white;
+  background-color: blueviolet;
+  font-size: smaller;
+}
+body{
+  background-color: mediumspringgreen;
+}
+.im{
+  height: 600;
+  width: 550;
+  border-radius: 690px;
+  color: gold;
+}
+footer{
+  background-color: blanchedalmond;
+  height: 600;
+  width: 400;
+}
+.af{
+  text-decoration: none;
+}
